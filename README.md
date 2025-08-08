@@ -1,6 +1,6 @@
 # 💫 About Me:
 Experienced IT professional with a Master’s degree in Computer Science and over 20 years of expertise in enterpriselevel applications, systems, and financial protocols. Proven track record in project management, software development,<br>and seamless integration of trading systems. Adept at collaborating across teams, delivering under pressure, and quickly<br>adapting to new technologies.
-<img src='khokan.png' alt='khokan'/>
+<img src='sakhawat.png' alt='khokan'/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shossain-khokon/) 
